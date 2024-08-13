@@ -1,2 +1,3 @@
 # Driver-Drowsiness-Detection
-Developed a Driver Fatigue Detection using Convolution Neural Network along with detection measures such as Percentage of Eyelid Closure and Frequency of Mouth Yawning. The system determines whether the driver is drowsy and sounds a warning.
+Developed a driver fatigue detection system to detect fatigue by analyzing facial expressions. The system utilizes Python, OpenCV, Dlib to map 68 facial landmarks and CNN to classify eye and mouth states from Region of Interest images. Key metrics like the frequency of mouth opening, the percentage of eyelid closure, and head positioning are considered. 
+
